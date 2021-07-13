@@ -8,5 +8,3 @@ This text will be **bold** and this is *italics*
 
 
 We will try making a branch
-
-Trying to update the main part.
